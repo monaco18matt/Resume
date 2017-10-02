@@ -6,7 +6,7 @@
     header( 'Content-type: application/json' );
 
 
-    $to         = 'trendytheme.net@gmail.com';  // put your email here
+    $to         = 'mxm8856@g.rit.edu';  // put your email here
 
     $email_template = 'simple.html';
 
