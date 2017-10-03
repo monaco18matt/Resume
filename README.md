@@ -1,13 +1,12 @@
 # Resume
-Matthew V. Monaco
-(315) 708-8522
-4255 East River Road Apt 25A, West Henrietta, NY 14586
-mxm8856@rit.edu
-https://github.com/monaco18matt
-https://rit.joinhandshake.com/users/6918999/
+## Matthew V. Monaco
+## (315) 708-8522
+## 4255 East River Road Apt 25A, West Henrietta, NY 14586
+## mxm8856@rit.edu
+## https://github.com/monaco18matt
 
-OBJECTIVE:    	To apply my software development and project management skills by securing a cooperative education position. 
-Available June – December 2018
+## __bold__ OBJECTIVE:    	To apply my software development and project management skills by securing a cooperative education position. 
+## Available June – December 2018
 
 EDUCATION: 	Rochester Institute of Technology, Rochester, State
 BS, Software Engineer, May 2021
