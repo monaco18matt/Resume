@@ -1502,7 +1502,8 @@ Icon for all respective meta
     border-bottom: 3px double #eee;
 }
 .map-canvas {
-    height: 350px;
+    height: 0px;
+    width: 0px;
 }
 
 
